@@ -12,8 +12,8 @@ It contains my work in OpenCV python.
 
 ## Getting started
      
-     The first thing to learn is how to load an Image and edit it and save it as a new file.
+     The first thing to learn is how to load an Image, edit it and save it as a new file.
      Go through the ImageEdit.py first which will help you to learn the same.
-     It take the image.jpg and converts it to black and white and saves it as a new file 
+     It takes the image.jpg and converts it to black and white and saves it as a new file 
      named blackNwhite.png
 
