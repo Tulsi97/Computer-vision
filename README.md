@@ -16,4 +16,12 @@ It contains my work in OpenCV python.
      Go through the ImageEdit.py first which will help you to learn the same.
      It takes the image.jpg and converts it to black and white and saves it as a new file 
      named blackNwhite.png
+     
+### Step 2
+     Now you can move to the Drawing Shapes folder. There you can learn to write text,
+     draw rectangles, circles, squares, and lastly you can try the altogether.py in
+     which you we can draw all the shapes and text using a in a single python code.
+     You can now realise the fact that drawing shapes are very mauch correlated.
+    
+### Step 3
 
